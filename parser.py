@@ -36,6 +36,8 @@ for i in range(1, 26, 10):
     for p in range(i, i+10):
         url = f"https://www.avito.ru/rossiya/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPGxw2goUw?cd=1&f=ASgBAgECBEQKJKwJ~GPQtw3ShTPGxw2goUwBRcaaDBl7ImZyb20iOjE3MDAwLCJ0byI6MjIwMDB9&p={p}&user=1"
         r = session.request('GET', url)
+        #proxy = {'https': 'http://username:password@ip:port'}
+        #soup = bs(requests.get(url, proxies=proxy).text, 'html.parser')
         soup = bs(r.content, 'html.parser')
         for div in soup.find_all("div", class_="iva-item-body-KLUuy"):
             title = div.find_all("h3", class_ = "title-root-zZCwT iva-item-title-py3i_ title-listRedesign-_rejR title-root_maxHeight-X6PsH text-text-LurtD text-size-s-BxGpL text-bold-SinUO")
