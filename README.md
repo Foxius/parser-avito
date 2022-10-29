@@ -1,4 +1,7 @@
 # parser-avito
+
+[![Developed by](https://github.com/Foxius/Foxius/raw/main/img/devshield.png)](https://saikonohack.me/)
+
 Скрипт для парсинга запчастей для автомобилей с Авито
 
 [![GitHub issues](https://img.shields.io/github/issues/Foxius/parser-avito?style=plastic)](https://github.com/Foxius/parser-avito/issues) [![GitHub stars](https://img.shields.io/github/stars/Foxius/parser-avito)](https://github.com/Foxius/parser-avito/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Foxius/parser-avito)](https://github.com/Foxius/parser-avito/network)
