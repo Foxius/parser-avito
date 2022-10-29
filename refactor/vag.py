@@ -1,0 +1,11 @@
+link = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBd7ImZyb20iOjUwMDAsInRvIjo1MDAwfQ&p={p}&user=1"
+link1 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBd7ImZyb20iOjUwMDEsInRvIjo1NDAwfQ&p={p}&user=1"
+link2 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBd7ImZyb20iOjU0MDAsInRvIjo1ODAwfQ&p={p}&user=1"
+link3 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBd7ImZyb20iOjU4MDAsInRvIjo2MjAwfQ&p={p}&user=1"
+link4 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBd7ImZyb20iOjYyMDAsInRvIjo3MDAwfQ&p={p}&user=1"
+link5 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBd7ImZyb20iOjcwMDAsInRvIjo3NjUwfQ&p={p}&user=1"
+link6 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBd7ImZyb20iOjc2NTAsInRvIjo5MzAwfQ&p={p}&user=1"
+link7 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBh7ImZyb20iOjkzMDAsInRvIjoxMzAwMH0&p={p}&user=1"
+link8 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBl7ImZyb20iOjEzMDAwLCJ0byI6MzAwMDB9&p={p}&user=1"
+link9 = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/volkswagen-ASgBAgICA0QKJKwJ~GPgtg24mSg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg24mSjQtw3ShTMBRcaaDBl7ImZyb20iOjMwMDAwLCJ0byI6NDAwMDB9&p={p}&user=1" #30 СТРАНИЦ!!
+

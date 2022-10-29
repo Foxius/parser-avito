@@ -1,0 +1,3 @@
+link = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/mercedes-benz-ASgBAgICA0QKJKwJ~GPgtg3omCg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg3omCjQtw3ShTMBRcaaDBh7ImZyb20iOjcwMDEsInRvIjoxMDAwMH0&moreExpensive=1&p={p}&&user=1"
+link = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/mercedes-benz-ASgBAgICA0QKJKwJ~GPgtg3omCg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg3omCjQtw3ShTMBRcaaDBl7ImZyb20iOjEwMDAxLCJ0byI6MjAwMDB9&moreExpensive=1&p={p}&user=1"
+link = f"https://www.avito.ru/all/zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley/mercedes-benz-ASgBAgICA0QKJKwJ~GPgtg3omCg?cd=1&f=ASgBAgECBEQKJKwJ~GPgtg3omCjQtw3ShTMBRcaaDBl7ImZyb20iOjIwMDAxLCJ0byI6NDAwMDB9&moreExpensive=1&p={p}&user=1"
